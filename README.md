@@ -169,7 +169,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![Screenshot 2025-04-07 095257](https://github.com/user-attachments/assets/66df55fc-5a05-42e7-93ed-f482a76d7037)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
- ![Screenshot 2025-04-07 094005](https://github.com/user-attachments/assets/cb45b83f-9bf8-40bd-aa8b-c0d3fcf5651a)
+ ![Screenshot 2025-04-11 134625](https://github.com/user-attachments/assets/5e0d2a09-def2-4f97-8fa2-31e34d704b07)
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
